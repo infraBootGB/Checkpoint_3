@@ -13,9 +13,13 @@ Elle est remplacée par Lionel Lemarchand
 
 ![Q1.1.2.png](Ressources/Q1.1.2.png)
 
+Déplacement dans l'OU
+
 ![Q1.1.2b.png](Ressources/Q1.1.2b.png)
 
 ### Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.
+
+![Q1.1.3)](Ressources/Q1.1.3.png)
 
 ### Q.1.1.4 Créer le dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE.
 
@@ -23,7 +27,11 @@ Elle est remplacée par Lionel Lemarchand
 
 ### Q.1.2.1 Faire en sorte que l'utilisateur Gabriel Ghul ne puisse se connecter que du lundi au vendredi, de 7h à 17h.
 
+![Q1.2.1](Ressources/Q1.2.1.png)
+
 ### Q.1.2.2 De même, bloquer sa connexion au seul ordinateur CLIENT01.
+
+![Q1.2.2](Ressources/Q1.2.2.png)
 
 ### Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.
 
