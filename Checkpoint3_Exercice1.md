@@ -41,3 +41,7 @@ Déplacement dans l'OU
 
 ### Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients.
 
+![Q1.3.1)](Q1.3.1)
+
+
+
