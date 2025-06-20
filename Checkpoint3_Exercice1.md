@@ -12,7 +12,9 @@ Elle est remplacée par Lionel Lemarchand
 ### Q.1.1.2 Créer une OU DeactivatedUsers et déplace le compte désactivé de Kelly Rhameur dedans.
 
 ![Q1.1.2.png](Ressources/Q1.1.2.png)
-![Q1.1.2b.png](Ressources/Q1.1.1.2b.png)
+
+![Q1.1.2b.png](Ressources/Q1.1.2b.png)
+
 ### Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.
 
 ### Q.1.1.4 Créer le dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE.
@@ -25,7 +27,7 @@ Elle est remplacée par Lionel Lemarchand
 
 ### Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.
 
-![Q1.2.3.png](REssources\Q1.2.3)
+![Q1.2.3.png](Ressources/Q1.2.3.png)
 
 ## Partie 3 : Lecteurs réseaux
 
